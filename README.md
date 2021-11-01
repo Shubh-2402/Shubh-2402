@@ -13,7 +13,6 @@
 <br/><br/>
 <h3><i><b>Connect with Me:</b></i></h3>
 <p align="left">
-<br/>
 <a href="https://www.linkedin.com/in/shubham-patil-596175191/">
   <img alt="Shubh's LinkedIn" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
