@@ -14,13 +14,15 @@
 <br/><br/>
 <h3><i><b>Connect with Me:</b></i></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shubham-patil-596175191/">
+<a href="https://www.linkedin.com/in/shubham-patil-596175191/" target="blank">
   <img alt="Shubh's LinkedIn" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
   
-<a href="https://www.instagram.com/shubham_2402/">
+<a href="https://www.instagram.com/shubham_2402/" target="blank">
   <img alt="Shubh's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
+  
+<a href="https://www.codechef.com/users/shubh_2402" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="kaustubhchaudhari" width="35px" /></a>
 </p>
 
 <h3><i><b>Tools and Languages:</b></i></h3>
