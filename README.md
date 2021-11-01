@@ -57,8 +57,6 @@
    <img  align="left" alt="Heroku" width="45px" src="https://img.icons8.com/color/452/heroku.png">
    
    <img  align="left" alt="Docker" width="45px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ">
-   
-   <img v alt="AWS" width="45px" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg">
     
 <hr>
  <p >
