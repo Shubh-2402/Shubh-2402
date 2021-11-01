@@ -45,9 +45,6 @@
    <img align="left" width="45px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png">
     <br><br><br>
     
-<hr>
-[![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubh-2402&show_icons=true)](https://github.com/shivam0110)]
-<hr>
 
 
 
