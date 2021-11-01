@@ -16,6 +16,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Gwalior.
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✉️ Feel free to reach out to me here: <patilshubham852@gmail.com>;
 
 <br/><br/>
 <h3><i><b>Tools and Languages:</b></i></h3>
@@ -37,19 +38,12 @@
    <img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
    
    <img align="left" alt="Nodejs" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+   <img align="left" width="45px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png">
     <br><br><br>
 
 [![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubh-2402&show_icons=true)](https://github.com/shivam0110)
 
 <br/>
-
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
-
-<br><br>
 
 <hr>
 
