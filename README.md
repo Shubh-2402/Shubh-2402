@@ -64,7 +64,7 @@
    
 <hr>
  <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shubh-2402&show_icons=true&hide_border=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shubh-2402&show_icons=true">
 </p>
 
 <p align="right" >
