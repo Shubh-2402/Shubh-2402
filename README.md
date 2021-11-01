@@ -63,9 +63,7 @@
    
    <img  alt="AWS" width="45px" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg">&nbsp;&nbsp;
 </p>
-  
-   <br><br>
-   
+    
 <hr>
  <p >
 <img  src="https://github-readme-stats.vercel.app/api?username=Shubh-2402&show_icons=true">
