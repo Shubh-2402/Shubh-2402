@@ -57,7 +57,7 @@
    <img  align="left" alt="Heroku" width="45px" src="https://img.icons8.com/color/452/heroku.png">
    
    <img  align="left" alt="Docker" width="45px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ">
-    <br><br><br>
+    <br><br>
 <hr>
  <p >
 <img  src="https://github-readme-stats.vercel.app/api?username=Shubh-2402&show_icons=true">
