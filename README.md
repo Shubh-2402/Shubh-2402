@@ -66,7 +66,7 @@
  <p >
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shubh-2402&show_icons=true">
 </p>
-
+&nbsp;&nbsp;
 <p align>
 	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh-2402&ring=5094F0" />
 </p>
