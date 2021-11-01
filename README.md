@@ -34,31 +34,31 @@
 
 <h3><i><b>Tools and Languages:</b></i></h3>
 
-<img align="left" width="45px" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png">&nbsp;
+<img align="left" width="45px" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png">
 
- <img  align="left"   width="45px" alt="Python" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">&nbsp;
+ <img  align="left"   width="45px" alt="Python" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
  
- <img  align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;
+ <img  align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
  
-  <img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp;&nbsp;
+  <img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   
-  <img align="left"  alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp;&nbsp;
+  <img align="left"  alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   
-  <img  align="left" alt="SQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />&nbsp;&nbsp;
+  <img  align="left" alt="SQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
   
-   <img  align="left" alt="Mongodb" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />&nbsp;&nbsp;
+   <img  align="left" alt="Mongodb" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />;
    
-   <img  align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&nbsp;&nbsp;
+   <img  align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />;
    
-   <img  align="left"  alt="Nodejs" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />&nbsp;&nbsp;
+   <img  align="left"  alt="Nodejs" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
    
-   <img  align="left" alt="Firebase" width="45px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png">&nbsp;&nbsp;
+   <img  align="left" alt="Firebase" width="45px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png">
    
-   <img  align="left" alt="Heroku" width="45px" src="https://img.icons8.com/color/452/heroku.png">&nbsp;&nbsp;
+   <img  align="left" alt="Heroku" width="45px" src="https://img.icons8.com/color/452/heroku.png">
    
-   <img  align="left" alt="Docker" width="45px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ">&nbsp;&nbsp;
+   <img  align="left" alt="Docker" width="45px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ">
    
-   <img v alt="AWS" width="45px" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg">&nbsp;&nbsp;
+   <img v alt="AWS" width="45px" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg">
     
 <hr>
  <p >
