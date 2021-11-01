@@ -52,7 +52,15 @@
    <img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
    
    <img align="left" alt="Nodejs" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+   
    <img align="left" alt="Firebase" width="45px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png">
+   
+   <img align="left" alt="Heroku" width="45px" src="https://img.icons8.com/color/452/heroku.png">
+   
+   <img align="left" alt="Docker" width="45px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ">
+   
+   <img align="left" alt="AWS" width="45px" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg">
+   
     <br><br><br>
 <hr>
  <p align="left">
