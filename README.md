@@ -22,11 +22,11 @@
   <img alt="Shubh's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
   
-<a href="https://www.instagram.com/shubham_2402/" target="blank">
+<a href="mailto:patilshubham852@gmail.com" target="blank">
   <img alt="Shubh's Gmail" width="35px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
   
-<a href="https://www.codechef.com/users/shubh_2402" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="kaustubhchaudhari" width="35px" /></a>
+<a href="https://www.codechef.com/users/shubh_2402" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="shubhampatil" width="35px" /></a>
 </p>
 
 <h3><i><b>Tools and Languages:</b></i></h3>
