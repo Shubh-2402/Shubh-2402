@@ -11,6 +11,7 @@
 - 💻 &nbsp; 3⭐️ at CodeChef
 - ✉️ &nbsp; Feel free to reach out to me here: <patilshubham852@gmail.com>;
 <br/>
+
 <h3><i><b>Connect with Me:</b></i></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shubham-patil-596175191/" target="blank">
@@ -25,8 +26,8 @@
   <img alt="Shubh's Gmail" width="35px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a> &nbsp;&nbsp;
  
- <a href="mailto:patilshubham852@gmail.com" target="blank">
-  <img alt="Shubh's Gmail" width="35px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+ <a href="https://www.codechef.com/users/shubh_2402" target="blank">
+  <img alt="Shubh's Codechef" width="35px" src="https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png" />
 </a> &nbsp;&nbsp;
   
 </p>
