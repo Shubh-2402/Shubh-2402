@@ -60,7 +60,7 @@
    <img align="left" alt="Docker" width="45px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ">
    
    <img align="left" alt="AWS" width="45px" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg">
-   <br>
+   <br><br>
    
 <hr>
  <p align="left">
