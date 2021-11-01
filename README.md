@@ -3,12 +3,13 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+### 💻 About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Gwalior.
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-- ✉️ Feel free to reach out to me here: <patilshubham852@gmail.com>;
+- ✍️ &nbsp; I'm a Full Stack Developer.
+- 💻 &nbsp; 3⭐️ at CodeChef
+- ✉️ &nbsp; Feel free to reach out to me here: <patilshubham852@gmail.com>;
 
 <br/><br/>
 <h3><i><b>Connect with Me:</b></i></h3>
@@ -44,8 +45,8 @@
    <img align="left" width="45px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png">
     <br><br><br>
 <hr>
- <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubh-2402&show_icons=true&hide_border=true">
+ <p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shubh-2402&show_icons=true&hide_border=true">
 </p>
     
 
