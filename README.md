@@ -68,7 +68,7 @@
 </p>
 
 <p align="right" >
-	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh-2402" />
+	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh-2402&ring=5094F0" />
 </p>
     
 
