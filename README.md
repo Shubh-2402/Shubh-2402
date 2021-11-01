@@ -46,7 +46,7 @@
     <br><br><br>
     
 <hr>
-[![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubh-2402&show_icons=true)](https://github.com/shivam0110)
+[![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubh-2402&show_icons=true)](https://github.com/shivam0110)]
 <hr>
 
 
