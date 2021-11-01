@@ -66,6 +66,11 @@
  <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shubh-2402&show_icons=true&hide_border=true">
 </p>
+
+<p align="right" ><img height=175  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-2402&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+	  <br>
+	  <br>
+	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh-2402"/>
     
 
 
