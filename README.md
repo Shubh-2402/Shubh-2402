@@ -23,7 +23,7 @@
 </a>
   
 <a href="https://www.instagram.com/shubham_2402/" target="blank">
-  <img alt="Shubh's Gmail" width="35px" src="https://www.flaticon.com/free-icon/gmail_732200?term=gmail&page=1&position=1&page=1&position=1&related_id=732200&origin=search" />
+  <img alt="Shubh's Gmail" width="35px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
   
 <a href="https://www.codechef.com/users/shubh_2402" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="kaustubhchaudhari" width="35px" /></a>
