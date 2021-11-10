@@ -15,7 +15,7 @@
 <h3><i><b>Connect with Me:</b></i></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shubham-patil-596175191/" target="blank">
-  <img alt="Shubh's LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+  <img alt="Shubh's LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a> &nbsp;&nbsp;
   
 <a href="https://www.instagram.com/shubham_2402/" target="blank">
