@@ -19,7 +19,7 @@
 </a> &nbsp;&nbsp;
   
 <a href="https://www.instagram.com/shubham_2402/" target="blank">
-  <img alt="Shubh's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img alt="Shubh's Instagram" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a> &nbsp;&nbsp;
   
 <a href="mailto:patilshubham852@gmail.com" target="blank">
