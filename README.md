@@ -7,8 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Gwalior.
-- ✍️ &nbsp; I'm a Full Stack Developer.
-- 💻 &nbsp; 3⭐️ at CodeChef
+- ✍️ &nbsp; I'm a Full Stack Developer
 - ✉️ &nbsp; Feel free to reach out to me here: <patilshubham852@gmail.com>
 <br/>
 
